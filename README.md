@@ -42,7 +42,7 @@ Execute os comandos no seu terminal:
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/pedrolucasoliva/letmeask.git
+$ git clone 
 
 # Entre no repositório
 $ cd letmeask
